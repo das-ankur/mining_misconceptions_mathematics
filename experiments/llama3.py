@@ -1,4 +1,6 @@
 # Import libraries
+from huggingface_hub import login
+login("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")
 import transformers
 import torch
 
